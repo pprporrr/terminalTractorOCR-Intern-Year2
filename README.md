@@ -7,7 +7,7 @@ This section outlines the basic steps to get started with the Terminal Tractor O
  1. Clone this repository to your local machine.
  2. Navigate to the project directory.
 ### Prerequisites
-- Yolov8
+- Yolov5
 ### Testing the OCR system
 You can test the ocr system by execute the TestImg.py script.
 
