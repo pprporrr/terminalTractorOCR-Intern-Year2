@@ -1,4 +1,4 @@
-# pipeDefectClassifierAPI-Intern-Year2
+# terminalTractorOCR-Intern-Year2
 This repository documents the progress and achievements of the Terminal Tractor Optical Character Recognition (OCR) project undertaken during my internship year at Verily Vision. The initiative aimed to enhance the existing Container Truck Gate Automation system at Sahathai Terminal by incorporating OCR capabilities for identifying alphanumeric characters on terminal tractors. These specialized vehicles, exclusive to the terminal premises, lack license plates but display character sequences on their fronts. My primary responsibility in this project involved designing and implementing a robust machine learning component that effectively detects, interprets, and integrates these characters into the automation system.
 The Terminal Tractor OCR project sought to enhance the Container Truck Gate Automation system at Sahathai Terminal.
 
